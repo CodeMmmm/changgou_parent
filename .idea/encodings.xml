@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou-user-oauth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_common_db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_gateway/changgou_gateway_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_canal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_content" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_goods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_seckill" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service/changgou_service_user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service_api/changgou_service_content_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service_api/changgou_service_goods_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service_api/changgou_service_order_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service_api/changgou_service_search_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service_api/changgou_service_seckill_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_service_api/changgou_service_user_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_web/changgou_web_item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_web/changgou_web_search" charset="UTF-8" />
+  </component>
+</project>
